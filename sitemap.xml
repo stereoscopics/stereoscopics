@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://stereoscopics.github.io/stereoscopics/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://stereoscopics.github.io/stereoscopics/</loc>
+</url>
+<url>
+<loc>https://stereoscopics.github.io/stereoscopics/about.html</loc>
+<lastmod>2021-07-04T22:45:17+02:00</lastmod>
+</url>
+<url>
+<loc>https://stereoscopics.github.io/stereoscopics/test-post-6.html</loc>
+<lastmod>2021-07-05T07:32:33+02:00</lastmod>
+<image:image>
+<image:loc>https://stereoscopics.github.io/stereoscopics/media\posts\7/gallery/IMG_7039-2-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://stereoscopics.github.io/stereoscopics/media\posts\7/gallery/IMG_7040-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://stereoscopics.github.io/stereoscopics/media\posts\7/gallery/IMG_7046-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://stereoscopics.github.io/stereoscopics/media\posts\7/gallery/IMG_7042-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://stereoscopics.github.io/stereoscopics/media\posts\7/gallery/IMG_7043-2-thumbnail.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

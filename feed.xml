@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>StereoscoPics</title>
+    <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
+    <link href="https://stereoscopics.github.io/stereoscopics" />
+    <updated>2021-07-05T07:32:33+02:00</updated>
+    <author>
+        <name>Paulo Araújo</name>
+    </author>
+    <id>https://stereoscopics.github.io/stereoscopics</id>
+
+    <entry>
+        <title>Post #1</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://stereoscopics.github.io/stereoscopics/test-post-6.html"/>
+        <id>https://stereoscopics.github.io/stereoscopics/test-post-6.html</id>
+            <category term="Structure"/>
+            <category term="Portrait"/>
+            <category term="Cityscapes"/>
+            <category term="Candid"/>
+            <category term="B&amp;W"/>
+            <category term="Architecture"/>
+
+        <updated>2021-07-05T07:32:33+02:00</updated>
+            <summary>
+                <![CDATA[
+                    First post after a walk at Meir, in the center of Antwerp.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2.png" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2.jpg" data-size="2074x3111"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+</div></div>
+<p>First post after a walk at Meir, in the center of Antwerp. A cloudy day with a lot of light.</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://stereoscopics.github.io/stereoscopics/about.html"/>
+        <id>https://stereoscopics.github.io/stereoscopics/about.html</id>
+
+        <updated>2021-07-04T22:45:17+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Hey, here is the (wanna be) photographer that started this site. I&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hey, here is the (wanna be) photographer that started this site. I am a very beginner that wants to grow in this hobby. To preserve memories is something I wish more people would consider as well.</p>
+<p>This a simple place where I share the shots I judged were good and I would like to revisit in the future.</p>
+<p>The name is from the<em> <a href="https://en.wikipedia.org/wiki/Stereoscopy" target="_blank" rel="noopener noreferrer">stereoscopic effect</a></em>, when you combine two-dimensional images in the brain to give the perception of 3D depth, although most pictures here will be '2D flat' I hope they can carry 'depth', that they can make you perceive something beside the 2D dimension.</p>
+<hr>
+<p>My gear is pretty simple, but as soon as I get more into photography I will get more, for the moment this is what I use:</p>
+<p>Cameras:</p>
+<ul style="list-style-type: square;">
+<li><a href="https://global.canon/en/c-museum/product/dcc578.html" target="_blank" rel="noopener noreferrer">Canon PowerShot SX20 IS</a></li>
+<li><a href="https://global.canon/en/c-museum/product/dslr806.html" target="_blank" rel="noopener noreferrer">Canon 600D</a> (also sold as EOS Rebel T3i / EOS Kiss X5)</li>
+</ul>
+<p>Lenses:</p>
+<ul style="list-style-type: square;">
+<li><a href="http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>
+<li><a href="http://allphotolenses.com/lenses/item/c_1574.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Vivitar MC 80-200 mm f/4.5 Zoom Lens</a></li>
+<li><a href="http://allphotolenses.com/lenses/item/c_4305.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Pentor 135 mm f/ 2.8 Auto Lens</a></li>
+<li><a href="http://allphotolenses.com/lenses/item/c_4790.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Revuenon 135 mm f/ 2.8 Auto multi coated Lens</a></li>
+<li><a href="http://allphotolenses.com/lenses/item/c_4335.html" target="_blank" rel="noopener noreferrer">Pentacon 50 mm f/ 1.8 multi coating auto Lens</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,47 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "StereoscoPics",
+    "description": "",
+    "home_page_url": "https://stereoscopics.github.io/stereoscopics",
+    "feed_url": "https://stereoscopics.github.io/stereoscopics/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Paulo Araújo"
+    },
+    "items": [
+        {
+            "id": "https://stereoscopics.github.io/stereoscopics/test-post-6.html",
+            "url": "https://stereoscopics.github.io/stereoscopics/test-post-6.html",
+            "title": "Post #1",
+            "summary": "First post after a walk at Meir, in the center of Antwerp.",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2.png\" data-size=\"3111x2074\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2-thumbnail.png\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2.jpg\" data-size=\"3111x2074\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2.jpg\" data-size=\"3111x2074\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2.jpg\" data-size=\"2074x3111\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1152\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2.jpg\" data-size=\"3111x2074\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>\n<p>First post after a walk at Meir, in the center of Antwerp. A cloudy day with a lot of light.</p>",
+            "author": {
+                "name": "Paulo Araújo"
+            },
+            "tags": [
+                   "Structure",
+                   "Portrait",
+                   "Cityscapes",
+                   "Candid",
+                   "B&amp;W",
+                   "Architecture"
+            ],
+            "date_published": "2021-07-03T22:36:39+02:00",
+            "date_modified": "2021-07-05T07:32:33+02:00"
+        },
+        {
+            "id": "https://stereoscopics.github.io/stereoscopics/about.html",
+            "url": "https://stereoscopics.github.io/stereoscopics/about.html",
+            "title": "About",
+            "summary": "Hey, here is the (wanna be) photographer that started this site. I&hellip;",
+            "content_html": "<p>Hey, here is the (wanna be) photographer that started this site. I am a very beginner that wants to grow in this hobby. To preserve memories is something I wish more people would consider as well.</p>\n<p>This a simple place where I share the shots I judged were good and I would like to revisit in the future.</p>\n<p>The name is from the<em> <a href=\"https://en.wikipedia.org/wiki/Stereoscopy\" target=\"_blank\" rel=\"noopener noreferrer\">stereoscopic effect</a></em>, when you combine two-dimensional images in the brain to give the perception of 3D depth, although most pictures here will be '2D flat' I hope they can carry 'depth', that they can make you perceive something beside the 2D dimension.</p>\n<hr>\n<p>My gear is pretty simple, but as soon as I get more into photography I will get more, for the moment this is what I use:</p>\n<p>Cameras:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"https://global.canon/en/c-museum/product/dcc578.html\" target=\"_blank\" rel=\"noopener noreferrer\">Canon PowerShot SX20 IS</a></li>\n<li><a href=\"https://global.canon/en/c-museum/product/dslr806.html\" target=\"_blank\" rel=\"noopener noreferrer\">Canon 600D</a> (also sold as EOS Rebel T3i / EOS Kiss X5)</li>\n</ul>\n<p>Lenses:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>\n<li><a href=\"http://allphotolenses.com/lenses/item/c_1574.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Vivitar MC 80-200 mm f/4.5 Zoom Lens</a></li>\n<li><a href=\"http://allphotolenses.com/lenses/item/c_4305.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Pentor 135 mm f/ 2.8 Auto Lens</a></li>\n<li><a href=\"http://allphotolenses.com/lenses/item/c_4790.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Revuenon 135 mm f/ 2.8 Auto multi coated Lens</a></li>\n<li><a href=\"http://allphotolenses.com/lenses/item/c_4335.html\" target=\"_blank\" rel=\"noopener noreferrer\">Pentacon 50 mm f/ 1.8 multi coating auto Lens</a></li>\n</ul>",
+            "author": {
+                "name": "Paulo Araújo"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-07-02T22:09:39+02:00",
+            "date_modified": "2021-07-04T22:45:17+02:00"
+        }
+    ]
+}
