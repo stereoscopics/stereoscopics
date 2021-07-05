@@ -3,7 +3,7 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2021-07-05T20:19:06+02:00</updated>
+    <updated>2021-07-05T21:14:09+02:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
@@ -23,7 +23,7 @@
             <category term="B&amp;W"/>
             <category term="Architecture"/>
 
-        <updated>2021-07-05T20:19:06+02:00</updated>
+        <updated>2021-07-05T21:14:09+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043-1.jpg" alt="" />
@@ -33,7 +33,7 @@
         <content type="html">
             <![CDATA[
                     <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043-1.jpg" alt="" />
-                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
 <figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-1-thumbnail.jpg" alt="ISO: 800 | Focal Length: 21 mm | Aperture: ƒ/14 | Shutter Speed: 1/500" width="768" height="512"></a>
 <figcaption>ISO: 800 | Focal Length: 21 mm | Aperture: ƒ/14 | Shutter Speed: 1/500</figcaption>
 </figure>
@@ -62,7 +62,7 @@
         <link href="https://stereoscopics.github.io/stereoscopics/about.html"/>
         <id>https://stereoscopics.github.io/stereoscopics/about.html</id>
 
-        <updated>2021-07-04T22:45:17+02:00</updated>
+        <updated>2021-07-05T21:13:48+02:00</updated>
             <summary>
                 <![CDATA[
                     Hey, here is the (wanna be) photographer that started this site. I&hellip;
@@ -88,6 +88,11 @@
 <li><a href="http://allphotolenses.com/lenses/item/c_4790.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Revuenon 135 mm f/ 2.8 Auto multi coated Lens</a></li>
 <li><a href="http://allphotolenses.com/lenses/item/c_4335.html" target="_blank" rel="noopener noreferrer">Pentacon 50 mm f/ 1.8 multi coating auto Lens</a></li>
 </ul>
+<p> </p>
+<hr>
+<p>Logo: <a href="https://dribbble.com/shots/2233402-View-Master-Icon/attachments/2233402-View-Master-Icon?mode=media">View-Master Icon</a> by Dave Gamez</p>
+<p>Icon: <a href="https://www.flaticon.com/free-icon/stereoscope_199047">Stereoscope </a></p>
+<p> </p>
             ]]>
         </content>
     </entry>
