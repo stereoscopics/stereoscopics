@@ -3,7 +3,7 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2021-07-05T07:32:33+02:00</updated>
+    <updated>2021-07-05T19:59:03+02:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
@@ -23,20 +23,22 @@
             <category term="B&amp;W"/>
             <category term="Architecture"/>
 
-        <updated>2021-07-05T07:32:33+02:00</updated>
+        <updated>2021-07-05T19:59:03+02:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043-1.jpg" alt="" />
                     First post after a walk at Meir, in the center of Antwerp.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043-1.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2.png" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-2-thumbnail.png" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2.jpg" data-size="2074x3111"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2.jpg" data-size="3111x2074"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-2-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-1.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-1-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 </div></div>
 <p>First post after a walk at Meir, in the center of Antwerp. A cloudy day with a lot of light.</p>
             ]]>
