@@ -11,6 +11,28 @@
     },
     "items": [
         {
+            "id": "https://stereoscopics.github.io/stereoscopics/post-2.html",
+            "url": "https://stereoscopics.github.io/stereoscopics/post-2.html",
+            "title": "Post #2",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7051-1.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7051-1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7054-1.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7054-1-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7085-3.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7085-3-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7087-4.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7087-4-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7088-5.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7088-5-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7091-6.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7091-6-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7104-7.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7104-7-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7105-8.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7105-8-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7109-9.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7109-9-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"512\"></a></figure>\n</div></div>",
+            "image": "https://stereoscopics.github.io/stereoscopics/media/posts/8/IMG_7109-9.jpg",
+            "author": {
+                "name": "Paulo Araújo"
+            },
+            "tags": [
+                   "Structure",
+                   "Nature",
+                   "Macro",
+                   "Landscape",
+                   "Flower",
+                   "Cityscapes",
+                   "B&amp;W",
+                   "Architecture"
+            ],
+            "date_published": "2021-07-07T23:19:36+02:00",
+            "date_modified": "2021-07-07T23:19:36+02:00"
+        },
+        {
             "id": "https://stereoscopics.github.io/stereoscopics/test-post-6.html",
             "url": "https://stereoscopics.github.io/stereoscopics/test-post-6.html",
             "title": "Post #1",
@@ -29,7 +51,7 @@
                    "Architecture"
             ],
             "date_published": "2021-07-03T22:36:39+02:00",
-            "date_modified": "2021-07-05T21:14:09+02:00"
+            "date_modified": "2021-07-07T23:17:58+02:00"
         },
         {
             "id": "https://stereoscopics.github.io/stereoscopics/about.html",
