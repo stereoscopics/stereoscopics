@@ -3,7 +3,7 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2021-07-09T23:39:59+02:00</updated>
+    <updated>2021-07-09T23:43:31+02:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
@@ -28,10 +28,11 @@
             <category term="Artistic"/>
             <category term="Architecture"/>
 
-        <updated>2021-07-09T23:39:59+02:00</updated>
+        <updated>2021-07-09T23:43:31+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://stereoscopics.github.io/stereoscopics/media/posts/9/IMG_7162-18.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7127-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7127-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7129-2.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7129-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
