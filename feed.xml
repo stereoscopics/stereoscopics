@@ -3,12 +3,68 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2021-07-07T23:19:36+02:00</updated>
+    <updated>2021-07-09T23:39:59+02:00</updated>
     <author>
         <name>Paulo Araújo</name>
     </author>
     <id>https://stereoscopics.github.io/stereoscopics</id>
 
+    <entry>
+        <title>Post #3</title>
+        <author>
+            <name>Paulo Araújo</name>
+        </author>
+        <link href="https://stereoscopics.github.io/stereoscopics/post-3.html"/>
+        <id>https://stereoscopics.github.io/stereoscopics/post-3.html</id>
+            <category term="Structure"/>
+            <category term="Portrait"/>
+            <category term="Nature"/>
+            <category term="Macro"/>
+            <category term="Landscape"/>
+            <category term="Flower"/>
+            <category term="Cityscapes"/>
+            <category term="Candid"/>
+            <category term="B&amp;W"/>
+            <category term="Artistic"/>
+            <category term="Architecture"/>
+
+        <updated>2021-07-09T23:39:59+02:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7127-1.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7127-1-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7129-2.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7129-2-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7131-3.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7131-3-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7132-4.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7132-4-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7134-5.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7134-5-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7138-6.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7138-6-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7139-7.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7139-7-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7141-8.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7141-8-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7145-9.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7145-9-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7148-10.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7148-10-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7149-11.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7149-11-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7151-12.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7151-12-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7154-13.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7154-13-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7157-14.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7157-14-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7159-15.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7159-15-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7160-16.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7160-16-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7161-17.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7161-17-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7162-18.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7162-18-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7165-19.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7165-19-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7166-20.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7166-20-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7172-21.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7172-21-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7178-23.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7178-23-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7177-22.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7177-22-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7180-24.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7180-24-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7181-25.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7181-25-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7184-26.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7184-26-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7186-27.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7186-27-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7190-1.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/9/gallery/IMG_7190-1-thumbnail.jpg" alt="" width="768" height="1152"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post #2</title>
         <author>
