@@ -5,11 +5,30 @@
     "home_page_url": "https://stereoscopics.github.io/stereoscopics",
     "feed_url": "https://stereoscopics.github.io/stereoscopics/feed.json",
     "user_comment": "",
-    "icon": "https://stereoscopics.github.io/stereoscopics/media/website/logo-128.png",
+    "icon": "https://stereoscopics.github.io/stereoscopics/media/website/logo-2-Black.png",
     "author": {
         "name": "P. A."
     },
     "items": [
+        {
+            "id": "https://stereoscopics.github.io/stereoscopics/post-8.html",
+            "url": "https://stereoscopics.github.io/stereoscopics/post-8.html",
+            "title": "Post #8",
+            "summary": " ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/2,0 |&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7556.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7556-thumbnail.jpg\" alt=\"ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/2,0 | Shutter Speed: 1/1600\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/2,0 | Shutter Speed: 1/1600</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7571.jpg\" data-size=\"3456x5184\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7571-thumbnail.jpg\" alt=\"ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/400\" width=\"768\" height=\"1152\"></a>\n<figcaption>ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/400</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7572.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7572-thumbnail.jpg\" alt=\"ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/400\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/400</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7574.jpg\" data-size=\"3456x5184\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/14/gallery/IMG_7574-thumbnail.jpg\" alt=\"ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/320\" width=\"768\" height=\"1152\"></a>\n<figcaption>ISO: 800 | Focal Length: 50 mm | Aperture: ƒ/3,2 | Shutter Speed: 1/320</figcaption>\n</figure>\n</div></div>\n<p> </p>\n<p>Random shots. MAS - Antwerpen.</p>\n<p>Lens used:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"https://www.dpreview.com/reviews/canon-50-1p4-c16\" target=\"_blank\" rel=\"noopener noreferrer\">Canon EF 50mm f/1.4-22 USM</a></li>\n</ul>",
+            "image": "https://stereoscopics.github.io/stereoscopics/media/posts/14/IMG_7574.jpg",
+            "author": {
+                "name": "P. A."
+            },
+            "tags": [
+                   "Cityscapes",
+                   "Candid",
+                   "B&amp;W",
+                   "Architecture"
+            ],
+            "date_published": "2021-09-06T21:56:27+02:00",
+            "date_modified": "2021-09-06T21:59:53+02:00"
+        },
         {
             "id": "https://stereoscopics.github.io/stereoscopics/post-7.html",
             "url": "https://stereoscopics.github.io/stereoscopics/post-7.html",
