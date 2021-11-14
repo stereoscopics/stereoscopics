@@ -3,12 +3,60 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2021-09-26T19:30:17+02:00</updated>
+    <updated>2021-11-14T22:20:00+01:00</updated>
     <author>
         <name>P. A.</name>
     </author>
     <id>https://stereoscopics.github.io/stereoscopics</id>
 
+    <entry>
+        <title>Post #11</title>
+        <author>
+            <name>P. A.</name>
+        </author>
+        <link href="https://stereoscopics.github.io/stereoscopics/post-11.html"/>
+        <id>https://stereoscopics.github.io/stereoscopics/post-11.html</id>
+            <category term="Cityscapes"/>
+            <category term="Architecture"/>
+
+        <updated>2021-11-14T22:20:00+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://stereoscopics.github.io/stereoscopics/media/posts/17/IMG_7800.jpg" alt="" />
+                     ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 |&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://stereoscopics.github.io/stereoscopics/media/posts/17/IMG_7800.jpg" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7794.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7794-thumbnail.jpg" alt="ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/200" width="768" height="1152"></a>
+<figcaption>ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/200</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7798.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7798-thumbnail.jpg" alt="ISO: 800 | Focal Length: 20 mm | Aperture: ƒ/3,5 | Shutter Speed: 1/200" width="768" height="1152"></a>
+<figcaption>ISO: 800 | Focal Length: 20 mm | Aperture: ƒ/3,5 | Shutter Speed: 1/200</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7800.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7800-thumbnail.jpg" alt="ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/3,5 | Shutter Speed: 1/200" width="768" height="512"></a>
+<figcaption>ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/3,5 | Shutter Speed: 1/200</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7804.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7804-thumbnail.jpg" alt="ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160" width="768" height="1152"></a>
+<figcaption>ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7805.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7805-thumbnail.jpg" alt="ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160" width="768" height="1152"></a>
+<figcaption>ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7809.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/17/gallery/IMG_7809-thumbnail.jpg" alt="ISO: 800 | Focal Length: 43 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160" width="768" height="1152"></a>
+<figcaption>ISO: 800 | Focal Length: 43 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/160</figcaption>
+</figure>
+</div></div>
+<p>Random shots. Frankrijklei &amp; Amerikalei in Antwerp.</p>
+<p>Lenses used:</p>
+<ul style="list-style-type: square;">
+<li><a href="http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>
+</ul>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Post #10</title>
         <author>
@@ -753,51 +801,6 @@
 <li><a href="http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto" target="_blank" rel="noopener noreferrer">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>
 <li><a href="http://allphotolenses.com/lenses/item/c_4335.html" target="_blank" rel="noopener noreferrer">Pentacon 50 mm f/ 1.8 multi coating auto Lens</a></li>
 </ul>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Post #1</title>
-        <author>
-            <name>P. A.</name>
-        </author>
-        <link href="https://stereoscopics.github.io/stereoscopics/post-1.html"/>
-        <id>https://stereoscopics.github.io/stereoscopics/post-1.html</id>
-            <category term="Structure"/>
-            <category term="Portrait"/>
-            <category term="Cityscapes"/>
-            <category term="Candid"/>
-            <category term="B&amp;W"/>
-            <category term="Architecture"/>
-
-        <updated>2021-09-06T22:25:41+02:00</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043.jpg" alt="" />
-                     ISO: 800 | Focal Length: 21 mm | Aperture: ƒ/14 |&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://stereoscopics.github.io/stereoscopics/media/posts/7/IMG_7043.jpg" alt="" />
-                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-columns="1">
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7040-thumbnail.jpg" alt="ISO: 800 | Focal Length: 21 mm | Aperture: ƒ/14 | Shutter Speed: 1/500" width="768" height="512"></a>
-<figcaption>ISO: 800 | Focal Length: 21 mm | Aperture: ƒ/14 | Shutter Speed: 1/500</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7039-thumbnail.jpg" alt="ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/16 | Shutter Speed: 1/640" width="768" height="512"></a>
-<figcaption>ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/16 | Shutter Speed: 1/640</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7046-thumbnail.jpg" alt="ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/11 | Shutter Speed: 1/400" width="768" height="512"></a>
-<figcaption>ISO: 800 | Focal Length: 18 mm | Aperture: ƒ/11 | Shutter Speed: 1/400</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042.jpg" data-size="3456x5184"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7042-thumbnail.jpg" alt="ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,0 | Shutter Speed: 1/1250" width="768" height="1152"></a>
-<figcaption>ISO: 800 | Focal Length: 55 mm | Aperture: ƒ/5,0 | Shutter Speed: 1/1250</figcaption>
-</figure>
-<figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/7/gallery/IMG_7043-thumbnail.jpg" alt="ISO: 800 | Focal Length: 41 mm | Aperture: ƒ/11 | Shutter Speed: 1/320" width="768" height="512"></a>
-<figcaption>ISO: 800 | Focal Length: 41 mm | Aperture: ƒ/11 | Shutter Speed: 1/320</figcaption>
-</figure>
-</div></div>
-<p>First post after a walk at Meir, in the center of Antwerp. A cloudy day with a lot of light.</p>
             ]]>
         </content>
     </entry>
