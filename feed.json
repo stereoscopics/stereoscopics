@@ -11,6 +11,24 @@
     },
     "items": [
         {
+            "id": "https://stereoscopics.github.io/stereoscopics/post-12.html",
+            "url": "https://stereoscopics.github.io/stereoscopics/post-12.html",
+            "title": "Post #12",
+            "summary": " ISO: 100 | Focal Length: 18 mm | Aperture: ƒ/4,5 |&hellip;",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7829.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7829-thumbnail.jpg\" alt=\"ISO: 100 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 20/1\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 100 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 20/1</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7833.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7833-thumbnail.jpg\" alt=\"ISO: 100 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 10/1\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 100 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 10/1</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7837.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/18/gallery/IMG_7837-thumbnail.jpg\" alt=\"ISO: 100 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 10/1\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 100 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 10/1</figcaption>\n</figure>\n</div></div>\n<p>Random shots.</p>\n<p>Lenses used:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>\n</ul>",
+            "image": "https://stereoscopics.github.io/stereoscopics/media/posts/18/IMG_7833.jpg",
+            "author": {
+                "name": "P. A."
+            },
+            "tags": [
+                   "Macro",
+                   "Long Exposure",
+                   "HDR"
+            ],
+            "date_published": "2021-12-05T19:13:35+01:00",
+            "date_modified": "2021-12-05T19:15:31+01:00"
+        },
+        {
             "id": "https://stereoscopics.github.io/stereoscopics/post-11.html",
             "url": "https://stereoscopics.github.io/stereoscopics/post-11.html",
             "title": "Post #11",
@@ -201,29 +219,6 @@
             ],
             "date_published": "2021-07-09T23:39:59+02:00",
             "date_modified": "2021-08-08T16:03:02+02:00"
-        },
-        {
-            "id": "https://stereoscopics.github.io/stereoscopics/post-2.html",
-            "url": "https://stereoscopics.github.io/stereoscopics/post-2.html",
-            "title": "Post #2",
-            "summary": " ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/5,6 |&hellip;",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7051.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7051-thumbnail.jpg\" alt=\"ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/80\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/80</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7054.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7054-thumbnail.jpg\" alt=\"ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/30\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/30</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7085.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7085-thumbnail.jpg\" alt=\"ISO: 400 | Focal Length: 28 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/2500\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 400 | Focal Length: 28 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/2500</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7087.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7087-thumbnail.jpg\" alt=\"ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/600\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/600</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7088.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7088-thumbnail.jpg\" alt=\"ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/600\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 400 | Focal Length: 18 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/600</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7091.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7091-thumbnail.jpg\" alt=\"ISO: 200 | Focal Length: 32 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/400\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 200 | Focal Length: 32 mm | Aperture: ƒ/4,5 | Shutter Speed: 1/400</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7104.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7104-thumbnail.jpg\" alt=\"ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/200\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/200</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7105.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7105-thumbnail.jpg\" alt=\"ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/125\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/125</figcaption>\n</figure>\n<figure class=\"gallery__item\"><a href=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7109.jpg\" data-size=\"5184x3456\"><img loading=\"lazy\" src=\"https://stereoscopics.github.io/stereoscopics/media/posts/8/gallery/IMG_7109-thumbnail.jpg\" alt=\"ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/125\" width=\"768\" height=\"512\"></a>\n<figcaption>ISO: 200 | Focal Length: 55 mm | Aperture: ƒ/5,6 | Shutter Speed: 1/125</figcaption>\n</figure>\n</div></div>\n<p>Random shots. Opera Metro Station in Antwerp &amp; flowers and parts of Wilrijk.</p>\n<p>Lenses used:</p>\n<ul style=\"list-style-type: square;\">\n<li><a href=\"http://allphotolenses.com/lenses/item/c_143.html#prettyPhoto\" target=\"_blank\" rel=\"noopener noreferrer\">Canon EF-S 18-55mm f/3.5-5.6 IS</a></li>\n<li><a href=\"http://allphotolenses.com/lenses/item/c_4335.html\" target=\"_blank\" rel=\"noopener noreferrer\">Pentacon 50 mm f/ 1.8 multi coating auto Lens</a></li>\n</ul>",
-            "image": "https://stereoscopics.github.io/stereoscopics/media/posts/8/IMG_7109-9.jpg",
-            "author": {
-                "name": "P. A."
-            },
-            "tags": [
-                   "Structure",
-                   "Nature",
-                   "Macro",
-                   "Landscape",
-                   "Flower",
-                   "Cityscapes",
-                   "B&amp;W",
-                   "Architecture"
-            ],
-            "date_published": "2021-07-07T23:19:36+02:00",
-            "date_modified": "2021-08-08T16:41:39+02:00"
         }
     ]
 }
