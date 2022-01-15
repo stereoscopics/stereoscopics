@@ -3,7 +3,7 @@
     <title>StereoscoPics</title>
     <link href="https://stereoscopics.github.io/stereoscopics/feed.xml" rel="self" />
     <link href="https://stereoscopics.github.io/stereoscopics" />
-    <updated>2022-01-15T23:58:38+01:00</updated>
+    <updated>2022-01-16T00:07:47+01:00</updated>
     <author>
         <name>P. A.</name>
     </author>
@@ -23,14 +23,16 @@
             <category term="Artistic"/>
             <category term="Architecture"/>
 
-        <updated>2022-01-15T23:58:38+01:00</updated>
+        <updated>2022-01-16T00:07:47+01:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://stereoscopics.github.io/stereoscopics/media/posts/21/IMG_8109.jpg" alt="" />
                      Antwerp: Prison, West Diep, Toneelhuis, Meir, Sint-Katelijnevest, Saint Charles Borromeo Church,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <img src="https://stereoscopics.github.io/stereoscopics/media/posts/21/IMG_8109.jpg" alt="" />
                 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
 <figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/21/gallery/IMG_8049.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/21/gallery/IMG_8049-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
 <figure class="gallery__item"><a href="https://stereoscopics.github.io/stereoscopics/media/posts/21/gallery/IMG_8050.jpg" data-size="5184x3456"><img loading="lazy" src="https://stereoscopics.github.io/stereoscopics/media/posts/21/gallery/IMG_8050-thumbnail.jpg" alt="" width="768" height="512"></a></figure>
